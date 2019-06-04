@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.880e0888.chunk.css",
-    "main.js": "/static/js/main.5d284871.chunk.js",
-    "main.js.map": "/static/js/main.5d284871.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.fb6ed098.chunk.css": "/static/css/2.fb6ed098.chunk.css",
-    "static/js/2.3ea013a8.chunk.js": "/static/js/2.3ea013a8.chunk.js",
-    "static/js/2.3ea013a8.chunk.js.map": "/static/js/2.3ea013a8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dce6c1088c3992f0db490ff6eeaa653c.js": "/precache-manifest.dce6c1088c3992f0db490ff6eeaa653c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.fb6ed098.chunk.css.map": "/static/css/2.fb6ed098.chunk.css.map",
-    "static/css/main.880e0888.chunk.css.map": "/static/css/main.880e0888.chunk.css.map",
-    "static/media/Map2.png": "/static/media/Map2.e605634e.png"
+    "main.css": "/schedulsaur/schedulsaur.github.io/static/css/main.880e0888.chunk.css",
+    "main.js": "/schedulsaur/schedulsaur.github.io/static/js/main.8553dbab.chunk.js",
+    "main.js.map": "/schedulsaur/schedulsaur.github.io/static/js/main.8553dbab.chunk.js.map",
+    "runtime~main.js": "/schedulsaur/schedulsaur.github.io/static/js/runtime~main.803bef0c.js",
+    "runtime~main.js.map": "/schedulsaur/schedulsaur.github.io/static/js/runtime~main.803bef0c.js.map",
+    "static/css/2.fb6ed098.chunk.css": "/schedulsaur/schedulsaur.github.io/static/css/2.fb6ed098.chunk.css",
+    "static/js/2.3ea013a8.chunk.js": "/schedulsaur/schedulsaur.github.io/static/js/2.3ea013a8.chunk.js",
+    "static/js/2.3ea013a8.chunk.js.map": "/schedulsaur/schedulsaur.github.io/static/js/2.3ea013a8.chunk.js.map",
+    "index.html": "/schedulsaur/schedulsaur.github.io/index.html",
+    "precache-manifest.09d734dcefc9bb256f14d3824c0cb41e.js": "/schedulsaur/schedulsaur.github.io/precache-manifest.09d734dcefc9bb256f14d3824c0cb41e.js",
+    "service-worker.js": "/schedulsaur/schedulsaur.github.io/service-worker.js",
+    "static/css/2.fb6ed098.chunk.css.map": "/schedulsaur/schedulsaur.github.io/static/css/2.fb6ed098.chunk.css.map",
+    "static/css/main.880e0888.chunk.css.map": "/schedulsaur/schedulsaur.github.io/static/css/main.880e0888.chunk.css.map",
+    "static/media/Map2.png": "/schedulsaur/schedulsaur.github.io/static/media/Map2.e605634e.png"
   }
 }
