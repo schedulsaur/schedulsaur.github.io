@@ -2,7 +2,7 @@
   "name": "schedules",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/schedulsaur/schedulsaur.github.io",
+  "homepage": "https://schedulsaur.github.io/",
   "dependencies": {
     "@vtex/react-csv-parse": "^3.0.2",
     "antd": "^3.17.0",
